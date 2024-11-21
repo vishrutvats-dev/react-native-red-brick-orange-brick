@@ -1,3 +1,13 @@
+This React Native project depicts an interesting game to tap on the 3x3 grid cells and check the colored pattern.
+
+**Steps:**
+Initially, all cells are white.
+Click on one random cell. It turns to red.
+If any cell is already having red color, it reverts back to white.
+It applies to each cell in the grid.
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
