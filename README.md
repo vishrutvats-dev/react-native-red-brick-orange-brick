@@ -7,6 +7,12 @@ This React Native project depicts an interesting game to tap on the 3x3 grid cel
 4. It applies to each cell in the grid.
 
 
+![Screenshot (40)](https://github.com/user-attachments/assets/5e58a29b-d843-4052-bd02-cd34f470dbfc)
+
+![Screenshot (41)](https://github.com/user-attachments/assets/4cb0b0e7-f16e-4532-9969-db7037ced95a)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/dc6426f6-90c7-4a59-a10e-f83013352835)
+
 
 # Sample Snack app
 
